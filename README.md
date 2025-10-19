@@ -1,1 +1,1 @@
-# ikinci-denemem
+# ikinci-denememBu benim ikinci commit denemem!
